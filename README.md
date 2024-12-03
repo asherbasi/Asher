@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asher
-- 👀 I’m interested in softawre development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning python, vue and react
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 You can reach me on Instagram at dyw_asher
